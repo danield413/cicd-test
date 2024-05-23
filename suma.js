@@ -1,4 +1,4 @@
-exports.suma = ( numero1, numero2 ) => numero1 + numero2;
+exports.suma = ( numero1, numero2 ) => numero1 - numero2;
 
 
 
