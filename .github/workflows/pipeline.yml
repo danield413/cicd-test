@@ -1,4 +1,4 @@
- name: Jasmine Test
+name: Jasmine Test
 
     on:
       push:
@@ -28,4 +28,3 @@
             run: npm install
           - name: Build and deploy
             run: echo "This step will always run"
-    
